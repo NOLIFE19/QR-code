@@ -1,0 +1,37 @@
+.qr-body{
+    background-color: #D5E1EF;
+    width: 100vw;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.qr-box{
+    width: 320px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 16px;
+    
+    
+}
+.img-qr{
+    width: 100%;
+
+}
+.h1-qr{
+    color: #1F314F;
+    font-size: 22px;
+   font-weight: 700;
+   margin-top: 24px;
+   text-align: center;
+}
+.p-qr{
+    margin-top: 16px;
+    text-align: center;
+    color: #7D889E;
+    font-size: 15px;
+    font-weight: 400;
+    margin-bottom: 16px;
+    
+    
+}
